@@ -1,0 +1,40 @@
+body {
+    font-family: Arial;
+    vertical-align: middle;
+    text-align: center;
+    margin-left: 400px;
+    margin-right: 400px;
+    background-image: url("https://www.metmuseum.org/toah/images/hb/hb_1973.120.9.jpg");
+}
+button {
+    color: white;
+    background: #59ff08;
+    width: 75px;
+    height: 30px;
+    font-size: large;
+    border-color: white;
+}
+#image {
+    margin-right: 120px;
+    margin-left: 120px;
+    margin-bottom: 30px;
+}
+#sign{
+    margin: 20px;
+    color: white;
+}
+#paragraph{
+    color:white;
+    text-align: center;
+}
+#zodiac{
+    background: red;
+    margin-top: 100px;
+    color: black;
+    font-size:larger ;
+
+}
+#Title{
+    font-family: Avenir;
+    font-size: larger;
+}
